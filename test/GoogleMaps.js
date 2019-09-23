@@ -3,7 +3,7 @@
 	var baseUrl = GoogleMapsLoader.URL;
 
 	var cb = GoogleMapsLoader.WINDOW_CALLBACK_NAME;
-	var googleVersion = '3.34';
+	var googleVersion = '3.39';
 
 	describe('GoogleMaps', function() {
 
